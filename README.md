@@ -3,7 +3,7 @@
     <img 
         src="http://img.shields.io/badge/-instagram-FF1493?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/min4717_/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+</a> 
 <br>
 <br>
 
